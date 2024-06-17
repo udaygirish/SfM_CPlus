@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Workspace Name="SFM_CPLUS">
+	<Project Name="SFM_CPLUS" Path="SFM_CPLUS.project" Active="No"/>
+	<BuildMatrix>
+		<WorkspaceConfiguration Name="Debug" Selected="yes">
+			<Project Name="SFM_CPLUS" ConfigName="Debug"/>
+		</WorkspaceConfiguration>
+	</BuildMatrix>
+</CodeLite_Workspace>
