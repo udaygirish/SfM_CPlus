@@ -1,3 +1,0 @@
-/home/udaygirish/Projects/Personal/Computer_Vision/SfM_CPlus/build/CMakeFiles/sfm_cpp.dir
-/home/udaygirish/Projects/Personal/Computer_Vision/SfM_CPlus/build/CMakeFiles/edit_cache.dir
-/home/udaygirish/Projects/Personal/Computer_Vision/SfM_CPlus/build/CMakeFiles/rebuild_cache.dir

@@ -213,15 +213,6 @@ CMAKE_STRIP:FILEPATH=/usr/bin/strip
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-SFM_CPLUS_BINARY_DIR:STATIC=/home/udaygirish/Projects/Personal/Computer_Vision/SfM_CPlus
-
-//Value Computed by CMake
-SFM_CPLUS_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-SFM_CPLUS_SOURCE_DIR:STATIC=/home/udaygirish/Projects/Personal/Computer_Vision/SfM_CPlus
-
-//Value Computed by CMake
 sfm_cpp_BINARY_DIR:STATIC=/home/udaygirish/Projects/Personal/Computer_Vision/SfM_CPlus
 
 //Value Computed by CMake
@@ -304,7 +295,7 @@ CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_EXPORT_COMPILE_COMMANDS
 CMAKE_EXPORT_COMPILE_COMMANDS-ADVANCED:INTERNAL=1
 //Name of external makefile project generator.
-CMAKE_EXTRA_GENERATOR:INTERNAL=CodeLite
+CMAKE_EXTRA_GENERATOR:INTERNAL=
 //Name of generator.
 CMAKE_GENERATOR:INTERNAL=Unix Makefiles
 //Generator instance identifier.
