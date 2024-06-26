@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -std=c++14 CMakeFiles/sfm_cpp.dir/src/Main.cpp.o -o sfm_cpp 
